@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "714187197253",
+    "firebase_url": "https://myawesomeproject-980b0.firebaseio.com",
+    "project_id": "myawesomeproject-980b0",
+    "storage_bucket": "myawesomeproject-980b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714187197253:android:ed84a081eea9a2da",
+        "android_client_info": {
+          "package_name": "com.example.meetupchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714187197253-md70ugrt547kreumg2rhp9nu51fc9ni6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzMxEKRZoDQuvrNIP5iWzhuVrfM0IAfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714187197253:android:1255dafc5224d2c2",
+        "android_client_info": {
+          "package_name": "com.example.namepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714187197253-md70ugrt547kreumg2rhp9nu51fc9ni6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzMxEKRZoDQuvrNIP5iWzhuVrfM0IAfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
